@@ -1,0 +1,52 @@
+.hidden {
+  display: none;
+}
+
+
+/* 배경 이미지
+body {
+  
+  background-color: beige;
+  background-image: url('https://icepipeled.com/wp-content/uploads/2020/11/ICEPIPE_2020_12_PC-bg.png');
+  no-repeat center;
+  background-size: 1600px 760px;
+  text-align: center;
+} 
+
+
+
+#clock-quote {
+  margin-top: 450px;
+}
+
+#greeting {
+  margin-top: 50px
+}
+
+#login-form{
+  margin-top: 50px
+}
+
+*/
+
+img {
+  width: 700px;
+  height: 450px;
+  object-fit: cover;
+}
+
+
+#time{
+  font-size: 60px;
+}
+#day{
+  font-size: 17px;
+}
+
+body {
+  
+  background-color: beige;
+  no-repeat center;
+  background-size: 1600px 760px;
+  text-align: center;
+} 
